@@ -1,0 +1,16 @@
+{
+  "name": "ExtendedSupportedFirebaseCloudMessagingPlugin",
+  "version": "1.0.0",
+  "description": "This plugin is a wrapper of OutSystems Supported Firebase Cloud Message Plugin BUT only add for Android",
+  "cordova": {
+    "id": "com.outsystems.extended.cloud.message.plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Paulo Cesar - OutSystems",
+  "license": "MIT"
+}
